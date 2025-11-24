@@ -3,6 +3,7 @@
   "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
     "*.md": "${capture}.*.md",
+    "*.svg": "${capture}.webp",
     ".gitattributes": ".gitignore",
     ".markdownlint.*": ".markdownlint-cli2.*"
   },

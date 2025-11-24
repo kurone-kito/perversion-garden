@@ -2,6 +2,7 @@ allowCompoundWords: true
 dictionaries:
   - en_US
   - en-gb
+  - html
   - git
   - markdown
   - misc
