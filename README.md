@@ -5,6 +5,7 @@
 ## 歌詞
 
 - [SubViewer (`.sbv`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.sbv)
+- [SubRip (`.srt`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.srt)
 
 > 花びらひらり 闇に落ちる  
 > キミは光 ボクは影  
