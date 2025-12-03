@@ -4,6 +4,9 @@
 
 ## 歌詞
 
+- Thx [@Shota-Sakitsu](https://github.com/Shota-Sakitsu)
+  - [Aegisub (`.ass`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.ass)
+  - [YouTube カラオケ風字幕 (`.ytt`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.ytt)
 - [SubViewer (`.sbv`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.sbv)
 - [SubRip (`.srt`) 形式の歌詞ファイル](https://github.com/kurone-kito/perversion-garden/raw/main/texts/lyrics.srt)
 
