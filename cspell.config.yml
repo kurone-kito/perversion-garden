@@ -2,6 +2,7 @@ allowCompoundWords: true
 dictionaries:
   - en_US
   - en-gb
+  - fonts
   - html
   - git
   - markdown
@@ -21,6 +22,7 @@ language: en,ja
 useGitignore: true
 version: '0.2'
 words:
+  - aegisub
   - alac
   - imgbotconfig
   - kito
@@ -28,5 +30,7 @@ words:
   - kuroné
   - medly
   - pixiv
+  - sakitsu
+  - shota
   - vocaloid
   - waivable

@@ -2,8 +2,10 @@
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
+    "*.ass": "${capture}.ytt",
     "*.flac": "${capture}.*",
     "*.md": "${capture}.*.md",
+    "*.sbv": "${capture}.srt",
     "*.svg": "${capture}.webp",
     ".gitattributes": ".gitignore",
     ".markdownlint.*": ".markdownlint-cli2.*"
