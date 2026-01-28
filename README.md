@@ -1,6 +1,9 @@
-# 💿 ボカロ曲 “perversion garden” のリソース集
+# 💿 [ボカロ曲 “perversion garden”](https://youtu.be/y0WLwU5n_A8) のリソース集
 
-![SVG](./images/logo.svg)
+[![perversion garden](./images/logo.svg)](https://youtu.be/y0WLwU5n_A8)
+
+[![YouTube Video Likes](https://img.shields.io/youtube/likes/y0WLwU5n_A8) ![YouTube Video Views](https://img.shields.io/youtube/views/y0WLwU5n_A8)](https://youtu.be/y0WLwU5n_A8)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJs_ejHQM0rcemJaeO2s5vA)](https://www.youtube.com/@kuronekito)
 
 ## 歌詞
 
